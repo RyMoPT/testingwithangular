@@ -4,6 +4,7 @@ span, .resetBtn{
     padding: .3em .8em;
     cursor: pointer;
     border: none;
+    user-select: none;
 }
 
 .play-container {
